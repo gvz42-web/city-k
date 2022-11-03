@@ -1,0 +1,21 @@
+{
+    "name": "city-k",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.2",
+        "mongoose": "^6.7.0",
+        "node-schedule": "^2.1.0",
+        "node-telegram-bot-api": "^0.59.0"
+    },
+    "devDependencies": {
+        "dotenv": "^16.0.3",
+        "nodemon": "^2.0.20"
+    }
+}
